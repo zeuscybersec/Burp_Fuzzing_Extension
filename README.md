@@ -1,5 +1,4 @@
 # Burp_Fuzzing_Extension
 Python Extension for Burp Suite for fuzzing (bhp_fuzz.py)
-
-You can refer this article for usage and an understanding for this extension-
+For USAGE of this extension, refer to this article-
 https://ismailakkila.medium.com/black-hat-python-burp-fuzzing-bfa7f80f1841
